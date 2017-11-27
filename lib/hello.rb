@@ -1,4 +1,4 @@
-array=(["John","Tom","Jim"])
+array=(["John","Tom","Jim","Tony","Terry"])
 
 def hello_t (array)
 i = 0
